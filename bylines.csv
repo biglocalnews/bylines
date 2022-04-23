@@ -1,9 +1,4 @@
 headline,pub_date,url
-"Eckerd Connects to lay off 176 as Hillsborough foster care winds down",2020-04-18,https://www.tampabay.com/news/hillsborough/2022/04/18/eckerd-connects-to-lay-off-176-as-hillsborough-foster-care-winds-down/
-"PepsiCo closing Barrington research facility, laying off 78 employees and transferring more than 130 others",2020-04-13,https://www.chicagotribune.com/business/ct-biz-pepsi-layoffs-closing-barrington-facility-20220413-cufzon7tizfubmrkupcta4dh5e-story.html
-"Bakersfield Police Department fails to identify people in crisis, thwarting reform",2020-04-13,https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform
-A beginner’s guide to FBI crime statistics,2020-04-11,https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html
-How journalists supported by Big Local News covered COVID’s costly toll on the disadvantaged,2020-04-11,https://biglocalnews.org/posts/2022/04/11/covid-grant-stories.html
 Rembrandt is laying off 135 workers at Buena Vista County egg-laying facility,2022-04-08,https://siouxcityjournal.com/news/local/rembrandt-lays-off-135-workers-at-buena-vista-county-egg-laying-facility/article_e128e690-1aea-5735-8fe4-d667a1fab8aa.html
 61 more employees being let go from Duane Arnold nuclear plant,2022-03-16,https://www.thegazette.com/news/61-more-employees-being-let-go-from-duane-arnold-nuclear-plant/
 First Visual Story,2022-03-06,https://palewi.re/docs/first-visual-story/
@@ -13,9 +8,9 @@ How you can use eviction data and public records to report on housing during the
 How to deploy a Prefect agent to Google Kubernetes Engine,2022-01-31,https://biglocalnews.org/posts/2022/01/29/kubernetes-prefect-agent.html
 How to push tagged Docker releases to Google Artifact Registry with a GitHub Action,2022-01-27,https://biglocalnews.org/posts/2022/01/27/docker-google-artifact-action.html
 How to open Excel files in Python without pandas,2022-01-21,https://gist.github.com/palewire/381bd617d1d41e18b3b71f1755dbd9ed
+"When race data goes missing, how do health leaders combat COVID racial disparities in Flint?",2021-12-26,https://flintbeat.com/when-race-data-goes-missing-how-do-health-leaders-combat-covid-racial-disparities-in-flint/
 "New Census data shows Idaho saw increased diversity, with growth among Black, Hispanic, and Asian groups",2021-12-06,https://boisedev.com/news/2021/12/06/idaho-racial-demographics/
 The Lost Local News Issue,2021-11-30,https://www.washingtonpost.com/magazine/interactive/2021/local-news-deserts-expanding/
-"When race data goes missing, how do health leaders combat COVID racial disparities in Flint?",2021-12-26,https://flintbeat.com/when-race-data-goes-missing-how-do-health-leaders-combat-covid-racial-disparities-in-flint/
 Census mapping project highlights a changing Delaware,2021-11-18,https://delawarebusinessnow.com/2021/11/census-mapping-project-highlights-a-changing-delaware/
 Making Agenda Watch useful to journalists across the country,2021-11-01,https://rjionline.org/news/making-agenda-watch-useful-to-journalists-across-the-country/
 "One Bay Area city, 73 police dog bites, and the law that made them public",2021-10-19,https://www.mercurynews.com/2021/12/19/one-bay-area-city-73-police-dog-bites-and-the-law-that-made-them-public/
@@ -39,8 +34,8 @@ How the Indigenous Investigative Collective use public records to show dire gaps
 Bakersfield Police Broke 31 People’s Bones in Four Years. No Officer Has Been Disciplined for It,2021-06-16,https://www.kqed.org/news/11878013/bakersfield-police-broke-31-peoples-bones-in-four-years-no-officer-has-been-disciplined-for-it
 How Stanford students helped with a Pulitzer Prize-winning project,2021-06-15,https://news.stanford.edu/report/2021/06/15/stanford-students-helped-pulitzer-prize-winning-project/
 A broken system: The number of Indigenous people who died from coronavirus may never be known,2021-06-08,https://www.hcn.org/articles/indigenous-affairs-covid19-a-broken-system-the-number-of-indigenous-people-who-died-from-coronavirus-may-never-be-known
-”THE SYRINGE” DEAL,2021-06-06,https://www.riseproject.ro/investigation/the-syringe-deal/
-NINE PLANES WITH MASKS,2021-06-06,https://www.riseproject.ro/investigation/nine-plane-with-masks/
+“The Syringe” Deal,2021-06-06,https://www.riseproject.ro/investigation/the-syringe-deal/
+Nine Planes with Masks,2021-06-06,https://www.riseproject.ro/investigation/nine-plane-with-masks/
 Wide disparity in COVID relief to tribes,2021-05-29,https://missoulian.com/news/local/wide-disparity-in-covid-relief-to-tribes/article_54f76313-6946-5eeb-93b9-5aa7241d03b8.html
 Rampant racial disparities plagued how billions of dollars in PPP loans were distributed in the U.S.,2021-05-01,https://revealnews.org/article/rampant-racial-disparities-plagued-how-billions-of-dollars-in-ppp-loans-were-distributed-in-the-u-s/
 PPP Reporting Network,2021-05-01,https://revealnews.org/ppp-reporting-network/
@@ -57,8 +52,20 @@ Shielded: How an obscure legal doctrine called qualified immunity protects polic
 A comparison of four major COVID-19 data sources,2020-05-05,https://source.opennews.org/articles/comparison-four-major-covid-19-data-sources/
 COVID-19 story recipe: Using AHA data to analyze hospital bed capacity,2020-04-29,https://source.opennews.org/articles/covid-19-story-recipe-aha-data-beds/
 "COVID-19 map offers state, county views",2020-04-23,https://investigativereportingworkshop.org/news/covid-19-map-offers-state-county-views/
+Eckerd Connects to lay off 176 as Hillsborough foster care winds down,2020-04-18,https://www.tampabay.com/news/hillsborough/2022/04/18/eckerd-connects-to-lay-off-176-as-hillsborough-foster-care-winds-down/
 "Stanford University, Google Create Coronavirus Maps for Journalists",2020-04-16,https://www.thewrap.com/stanford-university-google-create-coronavirus-maps-for-journalists/
 Stanford and Google create an embeddable COVID-19 map for local journalists,2020-04-14,https://techcrunch.com/2020/04/14/stanford-and-google-create-an-embeddable-covid-19-map-for-local-journalists/
+"PepsiCo closing Barrington research facility, laying off 78 employees and transferring more than 130 others",2020-04-13,https://www.chicagotribune.com/business/ct-biz-pepsi-layoffs-closing-barrington-facility-20220413-cufzon7tizfubmrkupcta4dh5e-story.html
+"Bakersfield Police Department fails to identify people in crisis, thwarting reform",2020-04-13,https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform
+A beginner’s guide to FBI crime statistics,2020-04-11,https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html
+How journalists supported by Big Local News covered COVID’s costly toll on the disadvantaged,2020-04-11,https://biglocalnews.org/posts/2022/04/11/covid-grant-stories.html
 Introducing an interactive Covid-19 mapper for Monterey County and its neighbors.,2020-04-08,https://www.montereycountyweekly.com/blogs/news_blog/introducing-an-interactive-covid-19-mapper-for-monterey-county-and-its-neighbors/article_e6c2c314-81c5-11ea-aee0-7b9363d60c71.html
 How can local news organizations thrive in a digital age?,2019-08-30,https://whatsnewinpublishing.com/how-can-local-news-organizations-thrive-in-a-digital-age/
 Stanford scholars are helping journalists do investigative journalism through data,2018-10-15,https://news.stanford.edu/2018/10/15/helping-journalists-use-data-investigative-reporting/
+A large-scale analysis of racial disparities in police stops across the United States,2020-05-04,https://www.nature.com/articles/s41562-020-0858-1
+Police Data Suggests Black and Hispanic Drivers Are Searched More Often Than Whites,2017-06-19,https://slate.com/technology/2017/06/statistical-analysis-of-data-from-20-states-suggests-evidence-of-racially-biased-policing.html
+Fast Threshold Tests for Detecting Discrimination,2017-02-27,https://arxiv.org/abs/1702.08536
+The Problem of Infra-marginality in Outcome Tests for Discrimination,2016-07-19,https://arxiv.org/abs/1607.05376
+Are Traffic Stops Prone to Racial Bias?,2016-06-21,https://www.themarshallproject.org/2016/06/21/are-traffic-stops-prone-to-racial-bias
+Combatting Police Discrimination in the Age of Big Data,2016-06-01,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2787101
+Precinct or Prejudice? Understanding Racial Disparities in New York City's Stop-and-Frisk Policy,2016-04-02,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2572718
